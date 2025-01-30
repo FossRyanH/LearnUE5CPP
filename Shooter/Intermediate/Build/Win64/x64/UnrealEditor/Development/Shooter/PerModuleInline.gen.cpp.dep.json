@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ryanh\\documents\\repos\\learnue5cpp\\shooter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shooter\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ryanh\\documents\\repos\\learnue5cpp\\shooter\\intermediate\\build\\win64\\x64\\shootereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ryanh\\documents\\repos\\learnue5cpp\\shooter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shooter\\definitions.shooter.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

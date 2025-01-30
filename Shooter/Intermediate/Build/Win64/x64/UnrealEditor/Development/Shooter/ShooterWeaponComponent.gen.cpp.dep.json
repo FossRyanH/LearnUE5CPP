@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ryanh\\documents\\repos\\learnue5cpp\\shooter\\intermediate\\build\\win64\\unrealeditor\\inc\\shooter\\uht\\shooterweaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ryanh\\documents\\repos\\learnue5cpp\\shooter\\intermediate\\build\\win64\\x64\\shootereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ryanh\\documents\\repos\\learnue5cpp\\shooter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shooter\\definitions.shooter.h",
+            "c:\\users\\ryanh\\documents\\repos\\learnue5cpp\\shooter\\source\\shooter\\shooterweaponcomponent.h",
+            "c:\\users\\ryanh\\documents\\repos\\learnue5cpp\\shooter\\intermediate\\build\\win64\\unrealeditor\\inc\\shooter\\uht\\shooterweaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
